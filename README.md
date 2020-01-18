@@ -61,6 +61,8 @@ npm install
 
 近一年来(201807-201907)，在中国，各个终端的使用占比  [data](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/china#monthly-201807-201907)。
 
+近一年来(201807-201907)，在中国，各个系统的使用占比 [data](https://gs.statcounter.com/os-market-share/all/china#monthly-201807-201907)。
+
 近一年来(201807-201907)，在中国，各浏览器的使用占比 [data](https://gs.statcounter.com/browser-market-share/all/china#monthly-201807-201907)。
 
 
