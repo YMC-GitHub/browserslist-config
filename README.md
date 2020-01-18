@@ -45,9 +45,22 @@ git clone https://github.com/YMC-GitHub/browserslist-config.git
 
 # install his deps
 npm install
-#
 
+#run some cmd 
 #...
+#to get the browsers list for your project?
+npx browserslist
+
+#you want to use some feat?
+#can i use css feat flex?
+caniuse flex
+#can i use js feat websockets?
+caniuse websockets
+#...
+
+#can i use my css file app.css with the browsers list xx ?
+#doiuse --browsers "ie >= 9, > 1% in CN, last 2 versions" ./dist/app.css
+
 ```
 
 ## some tool
@@ -56,6 +69,9 @@ npm install
 - browserslist-ga
 - caniuse-cmd
 - doiuse 
+- [browsers-support-badges](https://godban.github.io/browsers-support-badges/)
+- [CanIUse Embed](https://caniuse.bitsofco.de/)
+- [iwanttouse](http://www.iwanttouse.com/)
 
 ## some data 
 
