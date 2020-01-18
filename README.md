@@ -59,15 +59,15 @@ npm install
 
 ## some data 
 
-近一年来(201807-201907)，在中国，各个终端的使用占比  [data](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/china#monthly-201807-201907)。
+in the year (201807-201907), in China , each platform usage rate  [data](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/china#monthly-201807-201907)。
 
-近一年来(201807-201907)，在中国，各个系统的使用占比 [data](https://gs.statcounter.com/os-market-share/all/china#monthly-201807-201907)。
+in the year (201807-201907), in China , each os  usage rate [data](https://gs.statcounter.com/os-market-share/all/china#monthly-201807-201907)。
 
-近一年来(201807-201907)，在中国，各浏览器的使用占比 [data](https://gs.statcounter.com/browser-market-share/all/china#monthly-201807-201907)。
+in the year (201807-201907), in China , each browser usage rate [data](https://gs.statcounter.com/browser-market-share/all/china#monthly-201807-201907)。
 
 
-近一年来(201807-201907)，在中国，搜索引擎的使用占比 [data](https://gs.statcounter.com/search-engine-market-share/all/china#monthly-201807-201907)。
+in the year (201807-201907), in China , each search-engine usage rate [data](https://gs.statcounter.com/search-engine-market-share/all/china#monthly-201807-201907)。
 
-近一年来(201807-201907)，在中国，社交媒体的使用占比 [data](https://gs.statcounter.com/social-media-stats/all/china#monthly-201807-201907)。
+in the year (201807-201907), in China , each social-media usage rate [data](https://gs.statcounter.com/social-media-stats/all/china#monthly-201807-201907)。
 
-近一年来(201807-201907)，在中国，设备尺寸的使用占比 [data](https://gs.statcounter.com/screen-resolution-stats/all/china#monthly-201807-201907)。
+in the year (201807-201907), in China , each screen-resolution usage rate [data](https://gs.statcounter.com/screen-resolution-stats/all/china#monthly-201807-201907)。
