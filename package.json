@@ -1,0 +1,35 @@
+{
+  "name": "browserslist-config-yemiancheng",
+  "version": "1.0.0",
+  "description": "browserslist share config for yemiancheng",
+  "author": "yemiancheng <ymc-github@gmail.com>",
+  "private": false,
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "config",
+    "share",
+    "yemiancheng",
+    "browserslist"
+  ],
+  "scripts": {
+    "transform": "node src/transform.js",
+    "get:list": "browserslist",
+    "get:coverage": "browserslist --coverage=CN",
+    "test": "browserslist --coverage=CN \"> 1% in CN\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymc-github/browserslist-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ymc-github/browserslist-config/issues"
+  },
+  "homepage": "https://github.com/ymc-github/browserslist-config#readme",
+  "devDependencies": {
+    "browserslist": "^4.8.3",
+    "browserslist-ga": "0.0.11",
+    "caniuse-cmd": "^1.3.1",
+    "doiuse": "^4.2.0"
+  }
+}

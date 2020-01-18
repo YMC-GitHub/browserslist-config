@@ -1,0 +1,3 @@
+### Desktop vs Mobile vs Tablet Market Share China
+
+<div id="desktop+mobile+tablet-comparison-CN-monthly-201807-201907" width="600" height="400" style="width:600px; height: 400px;"></div><!-- You may change the values of width and height above to resize the chart --><p>Source: <a href="https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/china#monthly-201807-201907">StatCounter Global Stats - Platform Comparison Market Share</a></p><script type="text/javascript" src="https://www.statcounter.com/js/fusioncharts.js"></script><script type="text/javascript" src="https://gs.statcounter.com/chart.php?desktop+mobile+tablet-comparison-CN-monthly-201807-201907&chartWidth=600"></script>
