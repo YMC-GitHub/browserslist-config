@@ -23,7 +23,7 @@ note
 #add as below in your package.json
 :<<note
   "browserslist": [
-    "extends browserslist-config-mycompany/mobile.js"
+    "extends browserslist-config-yemiancheng/mobile.js"
   ]
 note
 ```
