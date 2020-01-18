@@ -57,12 +57,7 @@ npm install
 - caniuse-cmd
 - doiuse 
 
-
-
-### Operating System Market Share China
-
-<div id="all-os_combined-CN-monthly-201807-201907" width="600" height="400" style="width:600px; height: 400px;"></div><!-- You may change the values of width and height above to resize the chart --><p>Source: <a href="https://gs.statcounter.com/os-market-share/all/china#monthly-201807-201907">StatCounter Global Stats - OS Market Share</a></p><script type="text/javascript" src="https://www.statcounter.com/js/fusioncharts.js"></script><script type="text/javascript" src="https://gs.statcounter.com/chart.php?all-os_combined-CN-monthly-201807-201907&chartWidth=600"></script>
-
+## some data 
 
 近一年来(201807-201907)，在中国，各个终端的使用占比  [data](./note/data-device-usage.md)。
 
